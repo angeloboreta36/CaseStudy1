@@ -79,3 +79,9 @@ git log --oneline
 ```
 
 ---
+
+## Deployment
+
+The project is deployed and publicly accessible via github pages at:
+
+- **Live URL:** https://angeloboreta36.github.io/CaseStudy1/
