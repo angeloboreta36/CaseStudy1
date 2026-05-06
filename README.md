@@ -27,7 +27,7 @@ The primary objective of this activity is to demonstrate proper use of Git comma
 
 ## Core Git Workflows Demonstrated
 
-This project serves as a practical application of the following fundamental Git commands:
+This project serves as a practical application of the following fundamental Git commands with a bit of additions other than whats instructed:
 
 ### Part 1: Project Setup
 
