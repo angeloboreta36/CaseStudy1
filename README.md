@@ -84,4 +84,4 @@ git log --oneline
 
 The project is deployed and publicly accessible via github pages at:
 
-- **Live URL:** <a href="https://angeloboreta36.github.io/CaseStudy1/" target="_blank" rel="noopener noreferrer">Click here to view live site</a>
+- **Live URL:** [Click here to view live site](https://angeloboreta36.github.io/CaseStudy1/)
